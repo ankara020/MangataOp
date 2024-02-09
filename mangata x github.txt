@@ -1,0 +1,7 @@
+{
+  "name": "soulastz",
+  "website": "https://github.com/ankara020",
+  "description": "Node runner for life",
+  "logo": "https://ibb.co/FnxtRRK",
+  "twitter": "https://twitter.com/0xsoulastz"
+}
