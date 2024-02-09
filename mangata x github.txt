@@ -2,6 +2,6 @@
   "name": "soulastz",
   "website": "https://github.com/ankara020",
   "description": "Node runner for life",
-  "logo": "https://ibb.co/FnxtRRK",
+  "logo": "<a href="https://ibb.co/FnxtRRK"><img src="https://i.ibb.co/x3CQxxD/magritte-hez.png" alt="magritte-hez" border="0"></a>",
   "twitter": "https://twitter.com/0xsoulastz"
 }
